@@ -1,2 +1,2 @@
-# Thesis
-Repository for MA Thesis and the R Code for the analysis
+# Reducing the STEM Gender Gap - The Effect of Psychological Interventions on the Social Networks and Academic Persistence of Women Ph.D. Students in STEM
+This study reveals the efficacy of psychological interventions in supporting women pursuing STEM Ph.D. degrees. Multilevel model analyses suggested that female students who received a values affirmation or social belonging intervention were 9 percentage points more likely to remain in their graduate program after 3-4 years than those who were not treated. This indicates the importance of providing psychological support for female STEM Ph.D. students to reduce gender disparities in STEM.
